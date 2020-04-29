@@ -12,6 +12,7 @@ Technologies used:
 python 3.6.8
 jupyter-cliente 5.3.4
 ipython 7.11.1
+notepad ++ 7.8.6
 pyspark 2.4.4
 
 
